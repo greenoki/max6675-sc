@@ -1,5 +1,5 @@
 #include "math.h"
-//#include <stdlib.h>
+#include <stdlib.h>
 #include "max6675.h"
 
 MAX6675::MAX6675(int8_t sclk_pin, int8_t cs_pin, int8_t miso_pin) {
