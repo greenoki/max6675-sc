@@ -1,0 +1,7 @@
+{
+"name": "max6675",
+"author": "greenoki",
+"license": "GPL v3",
+"version": "0.1.1",
+"description": "A simple library for the max6675 module"
+}
